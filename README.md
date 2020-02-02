@@ -4,8 +4,8 @@
 
 ❗️*This repo is broken down into different sections*:
 
-📝 Notes
-💼 Projects
+- 📝 Notes
+- 💼 Projects
 
 With the different projects as branches under the `projects` root.
 
