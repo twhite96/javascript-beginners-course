@@ -1,6 +1,6 @@
 # JavaScript Complete Beginners Notes and Projects
 
-> My notes and projects from yet **another** Colt Steele Udemy course
+> My notes and projects from yet **another** Colt Steele Udemy course. Most notes are just a refresher.
 
 ❗️*This repo is broken down into different sections*:
 
@@ -15,6 +15,6 @@ Take all the notes you want! 😎 And if you want to use my code, just give me s
 
 ## To-do 2/2- 2/15
 
-- [ ] Finish strings section
+- [x] Finish strings section
 - [ ] Finish arrays section
 
