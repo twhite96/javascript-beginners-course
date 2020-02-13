@@ -16,5 +16,9 @@ Take all the notes you want! 😎 And if you want to use my code, just give me s
 ## To-do 2/2- 2/15
 
 - [x] Finish strings section
-- [ ] Finish arrays section
+- [x] Finish arrays section
+
+## To-do 2/15-2/29
+- [ ] Finish functions module
+- [ ] Finish Advanced Look at Functions module
 
